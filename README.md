@@ -1,6 +1,9 @@
 # app-feed-react-native
 Para rodar este projeto instale as seguintes depêndencias
-1-Native Base
+
+1- yarn
+
+Native Base
 
 npm install native-base --save
 
